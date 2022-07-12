@@ -67,7 +67,7 @@ class PaymentScreen extends StatelessWidget {
                 child: OrgsProfileCard(
                   textArea: 'Cartão de crédito',
                   icon: Icons.credit_card,
-                  data: 'Aluracard XXXX.4569',
+                  data: 'Nubank XXXX.4569',
                 ),
               ),
               Divider(),

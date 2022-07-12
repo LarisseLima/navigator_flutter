@@ -103,19 +103,19 @@ class ProfileScreen extends StatelessWidget {
                   Divider(),
                   OrgsProfileCard(
                     textArea: 'Endereço',
-                    data: 'Rua dos devs, 20',
+                    data: 'Rua Arco íris, 13',
                     icon: Icons.home,
                   ),
                   Divider(),
                   OrgsProfileCard(
                     textArea: 'Pagamento',
-                    data: 'DevCard',
+                    data: 'Nubank',
                     icon: Icons.credit_card,
                   ),
                   Divider(),
                   OrgsProfileCard(
                     textArea: 'Contato',
-                    data: '(22) 9.8877-6655',
+                    data: '(22) 98877-6655',
                     icon: Icons.phone,
                   ),
                 ],

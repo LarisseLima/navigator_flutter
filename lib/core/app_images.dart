@@ -2,7 +2,7 @@ class AppImages {
 
   static String get logo => "assets/images/logo.png";
   static String get logo_icon => "assets/images/logo_icon.png";
-  static String get person => "assets/images/person.jpg";
+  static String get person => "assets/images/person.png";
   static String get logo_login => "assets/images/login_logo.png";
   static String get cart => "assets/images/cart.png";
 
