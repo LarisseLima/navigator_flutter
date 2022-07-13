@@ -21,11 +21,11 @@ $ git clone https://github.com/LarisseLima/navigator_flutter
 $ cd navigator_flutter
 
 ```
- - Para instalar as dependências:
+- Para instalar as dependências:
    $ flutter pub get
 
-   - Rodar o  app: 
-   $ flutter run
+ - Rodar o  app: 
+  $ flutter run
 ```
 
 ## 📝 License
