@@ -1,16 +1,37 @@
-# navigation_flutter
+<p align="center">
+  app
+</p>
+<h1 align="center">
+    <img alt="Letmeask" src=".github/app.png" />
+</h1>
+<br>
 
-A new Flutter project.
+## 🧪 Tecnologias
 
-## Getting Started
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-This project is a starting point for a Flutter application.
+- [Flutter](https://flutter.dev/)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Como executar
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Clone o projeto e acesse a pasta do mesmo.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+$ git clone https://github.com/LarisseLima/navigator_flutter
+$ cd navigator_flutter
+
+```
+ - Para instalar as dependências:
+   $ flutter pub get
+
+   - Rodar o  app: 
+   $ flutter run
+```
+
+## 📝 License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
+
+---
+  >Esse projeto foi desenvolvido com :coffee: por **[@Larisse Lima](https://www.linkedin.com/in/larisselima/)**
+
