@@ -28,10 +28,5 @@ $ cd navigator_flutter
   $ flutter run
 ```
 
-## 📝 License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
-
+  >Esse projeto foi desenvolvido com ❤️ por **[@Larisse Lima](https://www.linkedin.com/in/larisselima/)**
 ---
-  >Esse projeto foi desenvolvido com :coffee: por **[@Larisse Lima](https://www.linkedin.com/in/larisselima/)**
-
